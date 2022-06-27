@@ -1,4 +1,4 @@
-# MapReduce-assignement
+# MapReduce-assignment
 Appliying mapReduce model with python
 
 Assignment: Counting Host Sizes
